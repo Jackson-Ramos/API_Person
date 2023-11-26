@@ -1,4 +1,4 @@
-package br.com.king_dev_jr.projeto.exceptions;
+package br.com.king_dev_jr.API_Person.exceptions;
 
 import java.io.Serializable;
 import java.util.Date;

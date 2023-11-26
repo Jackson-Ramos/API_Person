@@ -1,4 +1,4 @@
-package br.com.king_dev_jr.projeto;
+package br.com.king_dev_jr.API_Person;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
